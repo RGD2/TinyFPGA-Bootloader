@@ -1,0 +1,4 @@
+1..3
+ok 1 - 6 bytes sent and acknowledged
+ok 2 - 1 bytes sent and acknowledged
+ok 3 - Received nak
